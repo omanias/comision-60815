@@ -1,8 +1,32 @@
-# React + Vite
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# h1
+## h2
+### h3
+##### h5
 
-Currently, two official plugins are available:
+Es un proyecto para la comision de react de Coderhouse donde se muestra un e-commerce utilizando las librerias... y Firebase como base de datos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**negrita**
+_italica_
+
+1. primer elemento
+1. segundo elemento
+1. tercer elemento
+
+* elemento de una UL
+* otro elemento
+
+
+fragmento de codigo
+``` javascript
+function sumar(a,b){
+    return a + b
+}
+```
+
+Conoce mas de mi en mis redes sociales
+[LinkedIn](https://www.linkedin.com/in/omar-jesus-manias/)
